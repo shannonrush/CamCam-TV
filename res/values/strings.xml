@@ -4,5 +4,7 @@
     <string name="app_name">CamCam-TV</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_show_feeds">My Feeds</string>
+    <string name="title_activity_display_feed">My Feed</string>
 
 </resources>
